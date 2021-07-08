@@ -20,9 +20,9 @@
 ## 8.	Animar el globo terráqueo para que gire horizontalmente. 
 ![12](https://user-images.githubusercontent.com/49033433/125002705-29812380-e01b-11eb-8a18-71e8498313a0.png)
 ## 9.	Crear un trigger que permita girar y detener la animación del globo terráqueo 
-
-## 10. Añadir una cámara de realidad virtual (GoogleVR) y colocarla para que la aplicación inicie dentro de la escena del apartamento.
 ![13](https://user-images.githubusercontent.com/49033433/125002718-2be37d80-e01b-11eb-9928-1be1269ed643.png)
+## 10. Añadir una cámara de realidad virtual (GoogleVR) y colocarla para que la aplicación inicie dentro de la escena del apartamento.
+
 ## 11.	Actualizar la configuración del jugador (Nombre de la compañía, nombre del producto, paquete, soporte para VR, etc)
 ![15](https://user-images.githubusercontent.com/49033433/125002733-33a32200-e01b-11eb-819e-dd1e32d19f32.png)
 ## 12.	Añadir luces a la escena 
