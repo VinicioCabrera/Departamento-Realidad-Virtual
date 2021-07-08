@@ -22,7 +22,7 @@
 ## 9.	Crear un trigger que permita girar y detener la animación del globo terráqueo 
 ![13](https://user-images.githubusercontent.com/49033433/125002718-2be37d80-e01b-11eb-9928-1be1269ed643.png)
 ## 10. Añadir una cámara de realidad virtual (GoogleVR) y colocarla para que la aplicación inicie dentro de la escena del apartamento.
-
+![17](https://user-images.githubusercontent.com/49033433/125003234-600b6e00-e01c-11eb-8c8a-edab70789366.png)
 ## 11.	Actualizar la configuración del jugador (Nombre de la compañía, nombre del producto, paquete, soporte para VR, etc)
 ![15](https://user-images.githubusercontent.com/49033433/125002733-33a32200-e01b-11eb-819e-dd1e32d19f32.png)
 ## 12.	Añadir luces a la escena 
@@ -30,6 +30,8 @@
 ## 13.	Desplegar la aplicación para dispositivos android. 
 ![14](https://user-images.githubusercontent.com/49033433/125002844-7238dc80-e01b-11eb-8918-ce14f595c475.jpeg)
 ## Extra. Agregar sonidos de la ciudad. Revisar.
-
+![18](https://user-images.githubusercontent.com/49033433/125003332-9ea12880-e01c-11eb-9eaa-7de438acb598.png)
+![19](https://user-images.githubusercontent.com/49033433/125003335-9fd25580-e01c-11eb-817a-55bf0eab0425.png)
+![20](https://user-images.githubusercontent.com/49033433/125003361-ad87db00-e01c-11eb-843e-9bc66349799c.png)
 
 
